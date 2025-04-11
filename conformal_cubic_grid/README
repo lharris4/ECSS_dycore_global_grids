@@ -1,0 +1,1 @@
+make_hgrid --grid_type conformal_cubic_grid --nlon 16

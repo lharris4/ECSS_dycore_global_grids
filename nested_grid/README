@@ -1,0 +1,1 @@
+make_hgrid --grid_type gnomonic_ed --nlon 16 --do_cube_transform --stretch_factor 1 --target_lat 180. --target_lon 0. --nest_grids 1 --parent_tile 6 --refine_ratio 3 --istart_nest 5 --jstart_nest 5 --iend_nest 12 --jend_nest 12 --halo 1
